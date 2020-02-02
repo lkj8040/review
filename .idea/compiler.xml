@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="exercise_streaming" />
+        <module name="exercise_sparkSQL" />
+        <module name="Spark-Streaming" />
+        <module name="jedis" />
+        <module name="Server" />
+        <module name="pta" />
+        <module name="spark-core" />
+        <module name="HiveFunction" />
+        <module name="exercise_sparkcore" />
+        <module name="Client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
